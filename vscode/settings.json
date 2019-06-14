@@ -1,0 +1,40 @@
+{
+  "workbench.colorTheme": "Material Theme Lighter High Contrast",
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "go.formatTool": "gofmt",
+  "materialTheme.fixIconsRunning": false,
+  "workbench.iconTheme": "eq-material-theme-icons-light",
+  
+  // Controls the font family.
+  "editor.fontFamily": "Operator Mono Lig",
+  // Controls the line height. Use 0 to compute the lineHeight from the fontSize.
+  "editor.lineHeight": 24,
+  // Enables font ligatures
+  "editor.fontLigatures": true,
+  // Controls if file decorations should use badges.
+  "explorer.decorations.badges": false,
+
+  "files.associations": {
+      "*.tsx": "typescriptreact"
+  },
+  "window.zoomLevel": 1,
+
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 500,
+
+  "editor.tabCompletion": "on",
+  "editor.selectionHighlight": false,
+  "editor.occurrencesHighlight": false,
+
+  "workbench.colorCustomizations": {
+    "selection.background": "#eeeb43",
+    "editor.selectionBackground":  "#fffc5c",
+    "editor.findMatchBackground": "#00ff15",
+    "editor.findMatchHighlightBackground": "#ff96ff69",
+    "editor.lineHighlightBackground": "#fffeba6a",
+    "editor.rangeHighlightBackground": "#96f6ff9a"
+  }
+}

@@ -30,10 +30,10 @@
   "editor.occurrencesHighlight": false,
 
   "workbench.colorCustomizations": {
-    "selection.background": "#eeeb43",
-    "editor.selectionBackground":  "#fffc5c",
+    "selection.background": "#fffb00",
+    "editor.selectionBackground":  "#fffb00",
     "editor.findMatchBackground": "#00ff15",
-    "editor.findMatchHighlightBackground": "#ff96ff69",
+    "editor.findMatchHighlightBackground": "#ff00ffbc",
     "editor.lineHighlightBackground": "#fffeba6a",
     "editor.rangeHighlightBackground": "#96f6ff9a"
   }
